@@ -1,2 +1,5 @@
 # Fish-Classification-With-ANN
-An ANN model that classifies the fish species in the dataset 'A Large Scale Fish Dataset'
+
+In this project I read the images into a dataframe, visualised the data I gathered, tried to find the best hyper parameters for my model and then trained my model.
+
+Kaggle link of my project: https://www.kaggle.com/code/senazey/fish-classification
